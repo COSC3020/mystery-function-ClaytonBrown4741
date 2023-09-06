@@ -14,4 +14,4 @@ function mystery(a) {
 
 ANSWER: This function simply goes through an array of numbers and finds the biggest one.  
 It does this recursively by splitting up the array into smaller and smaller pieces and then  
-comparing those individual pieces to find out which one is the biggest.
+comparing those individual pieces with one another to find out which one is the biggest.
