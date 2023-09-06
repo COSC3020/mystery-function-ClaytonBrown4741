@@ -11,4 +11,7 @@ function mystery(a) {
     if(foo > a[0]) return foo;
     else return a[0];
 }
-```
+
+ANSWER: This function simply goes through an array of numbers and finds the biggest one.  
+It does this recursively by splitting up the array into smaller and smaller pieces and then  
+comparing those individual pieces to find out which one is the biggest.
